@@ -8,7 +8,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Page configuration
 st.set_page_config(
-    page_title="Ask Nietzsche 🖤",
+    page_title="Ask Nietzsche here 🖤",
     page_icon="assets/ask.png",
     layout="centered"
 )
