@@ -24,5 +24,11 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vij-sameerb5/ask-nietzsche.git
-cd ask-nietzsche
+  git clone https://github.com/vij-sameerb5/ask-nietzsche.git
+  cd ask-nietzsche
+
+```bash
+pip install -r requirements.txt
+
+```bash
+streamlit run ask_nietzsche.py
