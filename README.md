@@ -9,7 +9,7 @@
 - 🧠 Smart prompt engine trained on Nietzsche's core ideas (e.g., Will to Power, Eternal Recurrence)
 - 📚 Quote retrieval using embeddings (vector search coming soon)
 - 🕰️ Long-term memory agent (in progress)
-- 🔧 Modular agent-based architecture (MVP phase)
+- 🔧 Modular agent-based architecture MVP Phase
 
 ## 📦 Tech Stack
 
