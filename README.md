@@ -90,6 +90,11 @@ Let me know how the CPU‑quantized model feels, and we can adjust any final par
 
 
 
+changing the whole thing doesnt feel right
+
+
+
+
 
 
 
