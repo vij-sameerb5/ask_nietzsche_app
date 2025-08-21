@@ -1,4 +1,5 @@
 #  Ask Nietzsche – AI Philosophy Chatbot'
+<img width="250" height="250" alt="ask" src="https://github.com/user-attachments/assets/85f44f81-0ac1-4c32-b012-cc054b3d071d" />
 
 **Ask Nietzsche** is an AI-powered chatbot that answers your deepest existential, moral, and philosophical questions in the style of **Friedrich Nietzsche**, blending historical insight with modern AI. Built using Streamlit and OpenAI's language models, this app aims to make Nietzsche's philosophy accessible, conversational, and oddly motivating.
 
